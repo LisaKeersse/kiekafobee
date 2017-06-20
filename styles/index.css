@@ -42,8 +42,9 @@ h1{
 	font-family:tahoma;
 	font-weight:bold;
 	color:#1fa6e4; 
-	margin-bottom:40px;
+	margin-bottom:20px;
 	font-size:20px;
+	padding-top:50px;
 	}
 
 h2{
@@ -73,6 +74,7 @@ h4{
 		}
 	h1{
 		font-size:36px;
+		padding-top:50px;
 		}
 	
 }
@@ -137,7 +139,6 @@ img.space{
 	
 .navbar-default{
 	background-color:#dbecfc;
-	border-color:#ffffff;
 	}
 
 .navbar-default .navbar-nav>li>a,
@@ -240,5 +241,6 @@ a:hover{
 	color:#1fa6e4;
 	}
 	
-
+.margintop{
+	padding-top:50px;}
 
